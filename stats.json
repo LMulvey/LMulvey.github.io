@@ -1,0 +1,82 @@
+{
+  "assetsByChunkName": {
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-e65d41a431428a9a9a72.js",
+      "component---src-pages-index-js-e65d41a431428a9a9a72.js.map"
+    ],
+    "component---src-templates-project-page-js": [
+      "component---src-templates-project-page-js-6a83bd5307cb0e1dfe4b.js",
+      "component---src-templates-project-page-js-6a83bd5307cb0e1dfe4b.js.map"
+    ],
+    "path---": [
+      "path----ef476fec57b096a28a08.js",
+      "path----ef476fec57b096a28a08.js.map"
+    ],
+    "path---projects-kingsgateauto-6": [
+      "path---projects-kingsgateauto-6-e9534e653d6de7e2004b.js",
+      "path---projects-kingsgateauto-6-e9534e653d6de7e2004b.js.map"
+    ],
+    "path---projects-kingsgateauto-5": [
+      "path---projects-kingsgateauto-5-4372a494e5b191c9dfbc.js",
+      "path---projects-kingsgateauto-5-4372a494e5b191c9dfbc.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-12a4f22b51b71e1acfc3.js",
+      "component---src-layouts-index-js-12a4f22b51b71e1acfc3.js.map"
+    ],
+    "path---page-2": [
+      "path---page-2-a0e39f21c11f6a62c5ab.js",
+      "path---page-2-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---index": [
+      "path---index-179b05efb073ba809a0f.js",
+      "path---index-179b05efb073ba809a0f.js.map"
+    ],
+    "path---projects-kingsgateauto": [
+      "path---projects-kingsgateauto-67fdb9601c7988810f38.js",
+      "path---projects-kingsgateauto-67fdb9601c7988810f38.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
+    ],
+    "commons": [
+      "commons-afb5782224ac01f1fa03.js",
+      "commons-afb5782224ac01f1fa03.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---projects-kingsgateauto-1": [
+      "path---projects-kingsgateauto-1-8b25d5e72f716633e673.js",
+      "path---projects-kingsgateauto-1-8b25d5e72f716633e673.js.map"
+    ],
+    "component---src-pages-page-2-js": [
+      "component---src-pages-page-2-js-65f0147ecb0dc4da2a2b.js",
+      "component---src-pages-page-2-js-65f0147ecb0dc4da2a2b.js.map"
+    ],
+    "app": [
+      "app-8e9a58a12e072fa4debe.js",
+      "build-js-styles.css",
+      "app-8e9a58a12e072fa4debe.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---projects-kingsgateauto-3": [
+      "path---projects-kingsgateauto-3-3f63d704cf87efe8770b.js",
+      "path---projects-kingsgateauto-3-3f63d704cf87efe8770b.js.map"
+    ],
+    "path---projects-kingsgateauto-4": [
+      "path---projects-kingsgateauto-4-c933333c5463399e7c74.js",
+      "path---projects-kingsgateauto-4-c933333c5463399e7c74.js.map"
+    ],
+    "path---projects-kingsgateauto-2": [
+      "path---projects-kingsgateauto-2-869716e577b9d48cc408.js",
+      "path---projects-kingsgateauto-2-869716e577b9d48cc408.js.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ]
+  }
+}
